@@ -1,0 +1,4 @@
+C:\Cobol\CBLJRM05\bin\x86\Debug\CBLJRM05.idy
+C:\Cobol\CBLJRM05\obj\x86\Debug\CBLJRM05.idy
+C:\Cobol\CBLJRM05\bin\x86\Debug\CBLJRM05.int
+C:\Cobol\CBLJRM05\obj\x86\Debug\CBLJRM05.int

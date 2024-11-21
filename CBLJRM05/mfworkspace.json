@@ -1,0 +1,19 @@
+{
+  "version": "4.0",
+  "cobol": {
+    "directives": {
+      "CBLJRM05.cbl": [
+        "nologo",
+        "visualstudio\"4\"",
+        "noP64",
+        "noanim",
+        "sourcetabstop\"4\"",
+        "noquery",
+        "warnings\"1\"",
+        "nognt",
+        "int()",
+        "anim"
+      ]
+    }
+  }
+}
